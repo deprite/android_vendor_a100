@@ -97,4 +97,6 @@ PRODUCT_COPY_FILES += \
     vendor/acer/a100/proprietary/lib/libnvmm_image.so:/system/lib/libnvmm_image.so \
     vendor/acer/a100/proprietary/lib/libardrv_dynamic.so:/system/lib/libardrv_dynamic.so \
     vendor/acer/a100/proprietary/lib/libnvodm_misc.so:/system/lib/libnvodm_misc.so \
+    vendor/acer/a100/proprietary/lib/modules/bcm4329.ko:/system/lib/modules/bcm4329.ko \
+    vendor/acer/a100/proprietary/lib/modules/scsi_wait_scan.ko:/system/lib/modules/scsi_wait_scan.ko \
     vendor/acer/a100/proprietary/bin/glgps_nvidiaTegra2android:/system/bin/glgps_nvidiaTegra2android \
